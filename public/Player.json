@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "image": "https://static.toiimg.com/thumb/msid-81634378,imgsize-600233,width-400,resizemode-4/81634378.jpg",
+    "country": "India",
+    "handedness": "Right-handed",
+    "role": "Batter",
+    "price": 1000000
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "image": "https://images.news18.com/ibnlive/uploads/2023/10/copy-of-sports-2023-10-31t214505.751-2023-10-0ec83a9781e49ca8d218e9afd58c6f69.jpg?impolicy=website&width=640&height=480",
+    "country": "Pakistan",
+    "handedness": "Right-handed",
+    "role": "Batter",
+    "price": 900000
+  },
+  {
+    "id": 3,
+    "name": "Tamim Iqbal",
+    "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/686x514/tamim-iqbal_202308590618.jpg",
+    "country": "Bangladesh",
+    "handedness": "Left-handed",
+    "role": "Batter",
+    "price": 750000
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "image": "https://static.india.com/wp-content/uploads/2023/12/MixCollage-17-Dec-2023-03-48-PM-4916.jpg?impolicy=Medium_Resize&w=1200&h=800",
+    "country": "New Zealand",
+    "handedness": "Right-handed",
+    "role": "Batter",
+    "price": 800000
+  },
+  {
+    "id": 5,
+    "name": "Ben Stokes",
+    "image": "https://e0.365dm.com/22/06/2048x1152/skysports-pa-ben-stokes-england_5805019.jpg?20220614201751",
+    "country": "England",
+    "handedness": "Left-handed",
+    "role": "Allrounder",
+    "price": 950000
+  },
+  {
+    "id": 6,
+    "name": "Jasprit Bumrah",
+    "image": "https://media.gettyimages.com/id/1408242525/photo/england-v-india-1st-royal-london-series-one-day-international.jpg?s=594x594&w=gi&k=20&c=7o4egXypcSaeyBHxJt0jZu9aXRv_IWIJoZcoCSgSb5Y=",
+    "country": "India",
+    "handedness": "Right-handed",
+    "role": "Bowler",
+    "price": 850000
+  },
+  {
+    "id": 7,
+    "name": "Rashid Khan",
+    "image": "https://media.gettyimages.com/id/2094696279/photo/sharjah-united-arab-emirates-rashid-khan-of-afghanistan-gestures-during-the-mens-twenty20.jpg?s=612x612&w=gi&k=20&c=ngX4ujLrXOfukEKpmNI2KLzPtjPPi8wwCJIpsRQTjc0=",
+    "country": "Afghanistan",
+    "handedness": "Right-handed",
+    "role": "Bowler",
+    "price": 700000
+  },
+  {
+    "id": 8,
+    "name": "Steve Smith",
+    "image": "https://mrwallpaper.com/images/hd/steve-smith-cricketer-yj9evxkr70qvlwix.jpg",
+    "country": "Australia",
+    "handedness": "Right-handed",
+    "role": "Batter",
+    "price": 900000
+  },
+  {
+    "id": 9,
+    "name": "David Warner",
+    "image": "https://media.gettyimages.com/id/1160440588/photo/manchester-england-david-warner-of-australia-celebrates-his-century-during-the-group-stage.jpg?s=612x612&w=gi&k=20&c=In5WAPbsYQoQtnxOJN75o227PCCHS6-ew74kj9rQi50=",
+    "country": "Australia",
+    "handedness": "Left-handed",
+    "role": "Batter",
+    "price": 700000
+  },
+  {
+    "id": 10,
+    "name": "Shreyas Iyer",
+    "image": "https://media.gettyimages.com/id/1686266456/photo/indore-india-shreyas-iyer-of-india-celebrates-after-scoring-a-hundred-during-game-two-of-the.jpg?s=612x612&w=gi&k=20&c=CpY9yE0VTS41fekQmdFwgrd5vL1CE1ZqvHXppLCzAG0=",
+    "country": "India",
+    "handedness": "Right-handed",
+    "role": "Batter",
+    "price": 600000
+  },
+  {
+    "id": 11,
+    "name": "Trent Boult",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/382700/382716.jpg",
+    "country": "New Zealand",
+    "handedness": "Right-handed",
+    "role": "Bowler",
+    "price": 800000
+  },
+  {
+    "id": 12,
+    "name": "Mohammad Nabi",
+    "image": "https://media.gettyimages.com/id/1737145367/photo/delhi-india-mohammad-nabi-of-afghanistan-celebrates-the-wicket-of-dawid-malan-of-england.jpg?s=612x612&w=gi&k=20&c=XE8p74SreT25ekDj-wSIi2EF5ZklM3de_DPZ5Y6gFT0=",
+    "country": "Afghanistan",
+    "handedness": "Right-handed",
+    "role": "Allrounder",
+    "price": 650000
+  }
+]
